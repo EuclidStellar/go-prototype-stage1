@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// global function needs to be in capital letter starting
 const LoginToken string = "BLAHHHHH BLAHHHH" //PUBLIC
 
 func main() {

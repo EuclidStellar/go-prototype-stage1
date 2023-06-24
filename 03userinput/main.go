@@ -17,6 +17,7 @@ func main() {
 	fmt.Println("enter the number : ")
 
 	//comma ok syntax || error ok syntax
+	
 
 	input, _ := reader.ReadString('\n')
 	fmt.Println("thanks for the inputs, ", input)

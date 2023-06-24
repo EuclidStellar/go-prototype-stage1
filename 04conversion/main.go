@@ -28,6 +28,8 @@ func main() {
 	} else {
 		
 		fmt.Println("added 1 to the rating entered by user ", numrating+1)
+
+		
 	}
 
 }

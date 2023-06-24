@@ -8,6 +8,7 @@ import (
 	"strings"
 )
 
+
 func main() {
 	fmt.Println("welcome to our Go - Hotel ")
 	fmt.Println("rate my project betwenn 1 to 5 ")
